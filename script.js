@@ -1,5 +1,5 @@
 let balance = 1000;
-let currentPrice = 0.6000
+let currentPrice = 1.000
 let position = 0; // This represents how much of the currency pair the user owns
 
 // Randomly update the price every 3 seconds
