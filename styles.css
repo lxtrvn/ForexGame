@@ -19,7 +19,7 @@ body {
 
 h1 {
     margin-bottom: 20px;
-    color: #333333;
+    color: #ffffff;
 }
 
 .info p {
@@ -45,5 +45,5 @@ h1 {
 #message {
     margin-top: 20px;
     font-size: 1rem;
-    color: #333333;
+    color: #cccccc;
 }
